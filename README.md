@@ -1,6 +1,7 @@
 # nba-rookie-data-analysis
 
-**Note: this was the final project for CS115 at the University of Wisconsin-La Crosse*
+**Note: this was the final project for CS115 at the University of Wisconsin-La Crosse.*
+**More information about each part of the project is included within the project itself*
 
 Used a dataset from Kaggle that included the statistics from each NBA (National Basketball Association) player's rookie year (first year in the league) from ~1985 to 2016 in order to not only compare different statistics and trends, but to also determine which NBA player had the best rookie season. 
 
